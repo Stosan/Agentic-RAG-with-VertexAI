@@ -1,5 +1,3 @@
-# Agentic-RAG-with-VertexAI
-
 # Agentic RAG with Vertex AI
 
 ## 🚀 Introduction
